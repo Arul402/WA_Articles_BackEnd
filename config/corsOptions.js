@@ -1,4 +1,4 @@
-const whiteList=['http://localhost:5173','http://localhost:5000','https://www.youtube.com']
+const whiteList=['http://localhost:5173','http://localhost:5000','https://www.youtube.com','https://wa-articles-frontend.onrender.com']
 
 const corsOptions={
     origin:(origin,callback)=>{
